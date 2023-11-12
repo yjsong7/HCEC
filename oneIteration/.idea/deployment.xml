@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="31" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="193">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/project/oneIteration" local="F:/PaperProject/oneIteration" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="31">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/oneIteration" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Copy of project-level server '31' (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/syj/project" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="syj@slave1">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

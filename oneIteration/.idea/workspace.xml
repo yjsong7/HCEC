@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddd102ff-c7b4-4e43-9410-b40711298213" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22Pgitlu9lWanW9pGkMSYUZIy6A" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1678111129022" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fedasync-main" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.federated-learning">
+    <configuration name="Pic_acc_den161" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ST-WFBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pic_acc_den161.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pic_acc_res152" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ST-WFBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pic_acc_res152.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pic_loss_den161" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ST-WFBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pic_loss_den161.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pic_loss_res152" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ST-WFBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pic_loss_res152.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dl_trainer" type="PythonConfigurationType" factoryName="Python">
+      <module name="ST-WFBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dl_trainer.py" />
+      <option name="PARAMETERS" value="--dnn densenet201 --dataset mnist --max-epochs 1 --batch-size 64 --nsteps-update 1 --nworkers 1 --comm ring" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="federated-learning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ST-WFBP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/federated-learning.py" />
+      <option name="PARAMETERS" value="python federated_learning.py --dataset cifar10 --dnn cnn --nworkers 3 --max-epochs 1 --comm ps" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="193" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="10.21.249.193" />
+      <option name="PORT" value="22" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.dl_trainer" />
+      <item itemvalue="Python.Pic_loss_res152" />
+      <item itemvalue="Python.Pic_loss_den161" />
+      <item itemvalue="Python.Pic_acc_res152" />
+      <item itemvalue="Python.Pic_acc_den161" />
+      <item itemvalue="Python.federated-learning" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.federated-learning" />
+        <item itemvalue="Python.Pic_loss_res152" />
+        <item itemvalue="Python.Pic_loss_den161" />
+        <item itemvalue="Python.Pic_acc_den161" />
+        <item itemvalue="Python.Pic_acc_res152" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddd102ff-c7b4-4e43-9410-b40711298213" name="Default Changelist" comment="" />
+      <created>1639744766871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639744766871</updated>
+      <workItem from="1639744767958" duration="37616000" />
+      <workItem from="1640134151038" duration="48213000" />
+      <workItem from="1640437457628" duration="63541000" />
+      <workItem from="1640869936250" duration="6244000" />
+      <workItem from="1641171389642" duration="53281000" />
+      <workItem from="1641778631432" duration="8713000" />
+      <workItem from="1642074643921" duration="24308000" />
+      <workItem from="1642254747565" duration="721000" />
+      <workItem from="1645514542856" duration="1514000" />
+      <workItem from="1646099101568" duration="2628000" />
+      <workItem from="1646144968234" duration="570000" />
+      <workItem from="1646281100496" duration="24000" />
+      <workItem from="1650592270180" duration="28695000" />
+      <workItem from="1650941237176" duration="15397000" />
+      <workItem from="1652165862034" duration="51000" />
+      <workItem from="1652275127109" duration="2344000" />
+      <workItem from="1652320955017" duration="1579000" />
+      <workItem from="1653358926153" duration="10000" />
+      <workItem from="1653360863547" duration="625000" />
+      <workItem from="1656666070279" duration="3682000" />
+      <workItem from="1658236006770" duration="9690000" />
+      <workItem from="1658454259161" duration="47309000" />
+      <workItem from="1659099074941" duration="2684000" />
+      <workItem from="1659318387544" duration="1007000" />
+      <workItem from="1659319733228" duration="19773000" />
+      <workItem from="1659943619063" duration="2049000" />
+      <workItem from="1660009717659" duration="29361000" />
+      <workItem from="1660194258945" duration="106000" />
+      <workItem from="1660292416178" duration="610000" />
+      <workItem from="1660293380630" duration="626000" />
+      <workItem from="1660476088038" duration="3136000" />
+      <workItem from="1660526008700" duration="4481000" />
+      <workItem from="1660613160158" duration="29000" />
+      <workItem from="1660613312293" duration="49000" />
+      <workItem from="1663139139259" duration="1338000" />
+      <workItem from="1663207906901" duration="1190000" />
+      <workItem from="1663485766317" duration="39000" />
+      <workItem from="1663643943021" duration="2026000" />
+      <workItem from="1663727204932" duration="4278000" />
+      <workItem from="1663822857492" duration="2407000" />
+      <workItem from="1663923718218" duration="1739000" />
+      <workItem from="1664094420707" duration="2608000" />
+      <workItem from="1664104017802" duration="22921000" />
+      <workItem from="1666574899468" duration="196000" />
+      <workItem from="1667639563106" duration="4319000" />
+      <workItem from="1668391403920" duration="148000" />
+      <workItem from="1668391585776" duration="2298000" />
+      <workItem from="1678068499684" duration="1619000" />
+      <workItem from="1678110450382" duration="1073000" />
+      <workItem from="1678155395141" duration="4031000" />
+      <workItem from="1678242211880" duration="8444000" />
+      <workItem from="1678323710571" duration="15124000" />
+      <workItem from="1678609340973" duration="2022000" />
+      <workItem from="1678669754827" duration="24399000" />
+      <workItem from="1679537865574" duration="16000" />
+      <workItem from="1689749298969" duration="4581000" />
+      <workItem from="1689815095883" duration="18177000" />
+      <workItem from="1689901483921" duration="10164000" />
+      <workItem from="1690162586631" duration="2672000" />
+      <workItem from="1690701189618" duration="6795000" />
+      <workItem from="1690765052709" duration="5946000" />
+      <workItem from="1690865343788" duration="1295000" />
+      <workItem from="1690963105509" duration="1410000" />
+      <workItem from="1691377461960" duration="5468000" />
+      <workItem from="1691457743497" duration="7368000" />
+      <workItem from="1691544288661" duration="2076000" />
+      <workItem from="1691632365325" duration="1270000" />
+      <workItem from="1691994561371" duration="5065000" />
+      <workItem from="1694055618141" duration="10364000" />
+      <workItem from="1694135167331" duration="7032000" />
+      <workItem from="1694394085458" duration="2752000" />
+      <workItem from="1694504879667" duration="17069000" />
+      <workItem from="1694593795829" duration="2324000" />
+      <workItem from="1694655034964" duration="2381000" />
+      <workItem from="1697775737648" duration="70000" />
+      <workItem from="1698129956207" duration="952000" />
+      <workItem from="1698375073437" duration="606000" />
+      <workItem from="1698671770024" duration="619000" />
+      <workItem from="1698714701429" duration="212000" />
+      <workItem from="1698725247475" duration="1816000" />
+      <workItem from="1698802193674" duration="6609000" />
+      <workItem from="1698886292254" duration="2751000" />
+      <workItem from="1698975115009" duration="1090000" />
+      <workItem from="1699080754590" duration="739000" />
+      <workItem from="1699189786749" duration="1635000" />
+      <workItem from="1699192093347" duration="1163000" />
+      <workItem from="1699234337773" duration="6751000" />
+      <workItem from="1699320702110" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dl_trainer.py</url>
+          <line>1058</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dl_trainer.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dl_trainer.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MAX_WFBP$test.coverage" NAME="test Coverage Results" MODIFIED="1642233793192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_acc_time.coverage" NAME="Pic_acc_time Coverage Results" MODIFIED="1689848395548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_acc_2.coverage" NAME="Pic_acc_2 Coverage Results" MODIFIED="1689904782684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_acc_res152.coverage" NAME="Pic_acc_res152 Coverage Results" MODIFIED="1690769715479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_acc_3.coverage" NAME="Pic_acc_3 Coverage Results" MODIFIED="1690716003806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_loss_res152.coverage" NAME="Pic_loss_res152 Coverage Results" MODIFIED="1690770759780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_acc_den161.coverage" NAME="Pic_acc_den161 Coverage Results" MODIFIED="1690769729807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_loss_den161.coverage" NAME="Pic_loss_den161 Coverage Results" MODIFIED="1690769972747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$dl_trainer.coverage" NAME="dl_trainer Coverage Results" MODIFIED="1664111361871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$federated_learning.coverage" NAME="federated-learning Coverage Results" MODIFIED="1699191828295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ST_WFBP$distributed_trainer.coverage" NAME="distributed_trainer Coverage Results" MODIFIED="1639966812458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ST_WFBP$test.coverage" NAME="test Coverage Results" MODIFIED="1640868765828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$Pic_acc_4.coverage" NAME="Pic_acc_4 Coverage Results" MODIFIED="1690717553194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oneIteration$distributed_trainer.coverage" NAME="distributed_trainer Coverage Results" MODIFIED="1664103326775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ST-WFBP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
