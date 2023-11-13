@@ -1079,7 +1079,7 @@ class DLTrainer:
         self.optimizer.step()
 
 
-def train_with_single(num_of_workers,inside_workers, dnn, dataset, data_dir, nworkers, lr, batch_size, nsteps_update, max_epochs, num_steps=1, comm='ring'):
+def train(num_of_workers,inside_workers, dnn, dataset, data_dir, nworkers, lr, batch_size, nsteps_update, max_epochs, num_steps=1, comm='ring'):
     #torch.cuda.set_device(0)
     writer = SummaryWriter('./tb_log')
     trainer = DLTrainer(0, nworkers, dist=False, batch_size=batch_size,
@@ -1278,5 +1278,5 @@ if __name__ == '__main__':
     hdlr.setFormatter(formatter)
     logger.addHandler(hdlr)
     logger.info('Configurations: %s', args)
-    train_with_single(args.nworkers, args.inside_workers, args.dnn, args.dataset, args.data_dir, 1, args.lr, args.batch_size, args.nsteps_update,
+    train(args.nworkers, args.inside_workers, args.dnn, args.dataset, args.data_dir, 1, args.lr, args.batch_size, args.nsteps_update,
                       args.max_epochs, args.num_steps, args.comm)
